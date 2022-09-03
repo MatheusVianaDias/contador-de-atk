@@ -1,0 +1,37 @@
+.contador1 {
+    text-align: center;
+    background: linear-gradient(to left, red , black , blue);
+    color: white;
+    font-size: 30px;
+}
+.texto{
+    border-radius: 10px;
+    padding: 4px;
+   
+   
+}
+
+.texto::placeholder{
+    color: rgb(0, 0, 0);
+}
+
+.number {
+    border-radius: 10px;
+    padding: 4px;
+       
+}
+
+.number::placeholder{
+    color: rgb(0, 0, 0);
+}
+
+hr {
+    margin: 0;
+}
+
+.rodape {
+    background: linear-gradient(97.54deg,#000000 35.49%, #700700 165.37%);
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
